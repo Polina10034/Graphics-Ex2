@@ -1,0 +1,48 @@
+ body{
+  background-color: #fffbdf;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+}
+canvas{
+  float: left;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    padding-left: 55px;
+}
+/* input{
+    margin: 4px 0 0 19px;
+    margin-top: 1px\9;
+    line-height: normal;
+    /* padding: 66px; */
+/* } */
+.form-control{
+  position: relative;
+  right: -80px;
+  top: -30px
+}
+
+.col-sm-9 {
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.move-scale-right{
+  padding-left: 72px;
+}
+
+.move-Rotating-right{
+  padding-left: 61px;
+}
+
+.move-translation-right{
+  padding-left: 64px;
+}
+
+.checkbox{
+  margin-left: 19px;
+}
